@@ -1,22 +1,11 @@
-# advance-backend-sprint
+# Advance Backend Sprint
 
-This project is a React product browser built with Vite.
+Today's topic project is organized in [product-browser](./product-browser/).
 
-The app uses React Router to navigate product listings and details, and fetches
-product data from the DummyJSON API.
-
-## Development
-
-Install dependencies and start the development server:
+To run it locally:
 
 ```sh
+cd product-browser
 npm install
 npm run dev
-```
-
-Run the production build and lint checks:
-
-```sh
-npm run build
-npm run lint
 ```
